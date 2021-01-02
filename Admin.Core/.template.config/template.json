@@ -1,0 +1,28 @@
+{
+  "author": "Anonymous",
+  "classifications": [
+    "Web/WebAPI"
+  ],
+  "name": "Admin.Core",
+  "identity": "Admin.Core.Template",
+  "shortName": "admin",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "Admin.Core",
+  "preferNameDirectory": true,
+  "sources": [
+    {
+      "modifiers": [
+        {
+          "exclude": [
+            ".git/",
+            "README.md",
+            "LICENSE"
+          ]
+        }
+      ]
+    }
+  ]
+}
