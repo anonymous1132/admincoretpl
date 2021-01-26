@@ -9,7 +9,7 @@
     <Description>Templates to use when creating an application for WebApi.</Description>
     <PackageTags>dotnet-new;templates;webapi</PackageTags>
     <TargetFramework>net5.0</TargetFramework>
-
+    <NoDefaultExcludes>true</NoDefaultExcludes>
     <IncludeContentInPack>true</IncludeContentInPack>
     <IncludeBuildOutput>false</IncludeBuildOutput>
     <ContentTargetFolders>content</ContentTargetFolders>
